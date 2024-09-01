@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Viet Nguyen</h1>
-<h3 align="center">A android developer from VietNam</h3>
+<h3 align="center">A mobile developer from VietNam</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awdssdfgvietgithub" alt="awdssdfgvietgithub" /></a> </p>
 
-- 🔭 I’m currently working for [S3Corp](https://www.s3corp.com.vn/)
+- 🔭 I worked for [S3Corp](https://www.s3corp.com.vn/)
+- 🔭 I’m currently working for [Innotech](https://innotech.vn/)
 
 - 📫 How to reach me **phuongviet.huit@gmail.com**
 
